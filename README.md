@@ -9,5 +9,5 @@
 - Maya Akim. 2023. Complete Guide to LLM Fine Tuning for Beginners, https://medium.com/@mayaakim/complete-guide-to-llm-fine-tuning-for-beginners-c2c38a3252be 
 
 ## Practical Workshop:
-- [Google Colab Notebook](https://colab.research.google.com/drive/14EmLPNcJkf4geAK0dwuodhknbbp089Df) for calculating interrater reliability scores.
+- [Google Colab Notebook](https://colab.research.google.com/drive/14EmLPNcJkf4geAK0dwuodhknbbp089Df?usp=sharing) for calculating interrater reliability scores.
 - [Jupyter Notebook](https://github.com/villaorlado/richmond2024/blob/main/local%20llm%20ollama.ipynb) for running LLMs locally with Ollama.
